@@ -1,6 +1,6 @@
 # To Do List Web App
 
-A simple To Do list web application built with React. Tasks are saved to your browser's localStorage.
+A simple To Do list web application built with React. Tasks are saved to your browser's localStorage and can be accessed when opening the application.
 
 ## Features
 
