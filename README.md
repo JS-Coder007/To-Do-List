@@ -4,7 +4,7 @@ A simple To Do list web application built with React. Tasks are saved to your br
 
 ## Features
 
-- Add new tasks
+- Add new tasks and Edit it
 - Mark tasks as complete/incomplete
 - Delete tasks
 - Persists data in localStorage
